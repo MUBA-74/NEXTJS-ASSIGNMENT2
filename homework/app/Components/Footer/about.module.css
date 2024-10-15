@@ -1,0 +1,13 @@
+.div{
+    color: whitesmoke;
+    background-color: rgb(255, 0, 183);
+    text-align: center;
+    text-decoration: underline;
+}
+
+.p{
+    color: goldenrod;
+    background-color: maroon;
+    text-align: center;
+    text-decoration: underline;
+}
