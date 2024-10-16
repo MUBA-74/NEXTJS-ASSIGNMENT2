@@ -12,19 +12,6 @@ const NavBar = () => {
   return (
     <div>
 
-      <Header></Header>
-      <h1 className='brown'>This is our engaging and embellishing Home page. </h1>
-      <p   className='pink'>Welcome! to our world full of knowledge and wisdom.</p>
-
-  <HeroSection></HeroSection>
-
-
-
-
-      <div>
-  
-
-
         <nav>
 
           
@@ -35,9 +22,27 @@ const NavBar = () => {
          
         </nav>
       
-      
+      <div>
+
+
+
+
+
+
+
+      <Header></Header>
+      <h1 className='brown'>This is our engaging and embellishing Home page. </h1>
+      <p   className='pink'>Welcome! to our world full of knowledge and wisdom.</p>
+
+     <HeroSection></HeroSection>
+
         
       </div>
+
+
+
+
+
 
 
 
